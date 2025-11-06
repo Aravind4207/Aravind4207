@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aravind S</h1>
-<h3 align="center">Front End Developer</h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 - 🔭 I’m currently working on **Gaining Skills in Python Full Stack**
 
-- 🌱 I’m currently learning **Back End Developer**
+- 🌱 I’m currently learning **AIML Technology**
 
 - 👨‍💻 All of my projects are available at [https://aravind4207.github.io/My-Portfolio/](https://aravind4207.github.io/My-Portfolio/)
 
